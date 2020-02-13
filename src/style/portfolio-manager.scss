@@ -1,0 +1,16 @@
+.portfolio-manager-wrapper {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    height: calc(100vh - 84px);
+
+    .left-column {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $offwhite;
+    }
+
+    .right-column {
+        background-color: $charcoal;  
+    }
+}
