@@ -5,10 +5,10 @@
 @import "./button.scss";
 @import "./grid.scss";
 @import "./navigation.scss";
-@import "./portfolio.scss";
-@import "./portfolio-form.scss";
-@import "./portfolio-manager.scss";
-@import "./portfolio-sidebar.scss";
+@import "./portfolio/portfolio.scss";
+@import "./portfolio/portfolio-form.scss";
+@import "./portfolio/portfolio-manager.scss";
+@import "./portfolio/portfolio-sidebar.scss";
 @import "./auth.scss";
 @import "./blog.scss";
 @import "./loaders.scss";
@@ -17,5 +17,6 @@
 @import "./react-draft-wysiwyg.scss";
 @import "./rich-text-editor.scss";
 @import "./layouts.scss";
-@import "./portfolio-detail.scss";
+@import "./portfolio/portfolio-detail.scss";
 @import "./home.scss";
+@import "./media-queries.scss";
